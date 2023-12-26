@@ -18,4 +18,4 @@ while True:
     else:
         red.off()
         yellow.off()
-    sleep(1)   
+        sleep(1)   
