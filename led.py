@@ -15,6 +15,7 @@ while True:
         yellow.on()
         sleep(1)
         yellow.off()
+        print("The distancis is greater than 50")
     else:
         red.off()
         yellow.off()
